@@ -1,0 +1,24 @@
+de:
+  home:
+    h1: MALAIKA
+    h2: Eine-Welt-Gruppe Sterzing
+    malaikaDesc: „MALAIKA“, die Eine-Welt-Gruppe Sterzing hat sich 2013 über die oew – Organisation für Eine solidarische Welt gegründet. Ziel der Gruppe ist die Unterstützung sozialer Projekte in Kenia. Zur Zeit liegt das Hauptziel darin, den Bau des Waisenhauses zu fördern. Dies gelingt durch verschiedene Aktionen und Vorträge in Südtirol und durch die gute Zusammenarbeit mit den Projektpartnern in Kenia.
+    h1news : News
+    h1donate: Spenden
+    beforeProgressBar: Wir haben bereits 25% des Benötigten geldes zusammen.
+    donationMain: "Unser Spendenkonto:"
+    bankDetails: "IBAN: IT9234342342342 <br> BIC:BDS53 <br> Bank: Raiffeisen..."
+
+
+    altGroupPic: Mitglieder Malaika
+  
+  proj:
+    duncan_h1: Duncan Kimani
+    duncan_p: "Duncan wurde am 06.11.1980 in Kenia geboren. Nach seinem Bachelor in Leadership an der St. Pausl’s Univeristy Kenya machte er einen Master in Leadership and Sustainability an der Liberty University in den USA. Vier Jahre lang arbeitete er für „Bluesky adventures Kenya“ im Teambuildingbereich. 2007 gründetet er die Organisation „Care for AIDS“ und arbeitet dort seit daher als Direktor."
+    patrick_h1: Patrick Mwangi
+    patrick_p: "Patrick wurde am 25.05.1975 in Kenia geboren. Er hat den Abschluss in Graphic Design auf dem Bururburu Institute of Art and Design erworben und danach für „Bata shoe co.“ als Designer gearbeitet. Später hat er als Projektmaneger für „African Impact“ gearbeitet und seit 2014 ist er bei „Care for AIDS“ tätig."
+
+it:
+  home:
+    title: ital
+    text: babedibubedi
