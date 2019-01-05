@@ -1,9 +1,22 @@
 <nav>
-  {% for item in site.data.navigation %}
+  {% for lang in site.data.navigation  %}
 
-    <a href="{{ item.link }}" {% if page.url == item.link %}class="current" {% endif %}>
-    {{item.name}}
-    </a>
+
+  
+    {% if lang[0] == page.lang %}
+
+    
+
+    {% for item in lang[1] %}
+
+
+      <a href="{{ item.link }}" {% if page.url == item.link %}class="current" {% endif %}>
+      {{item.name}}
+      </a>
+
+    {% endfor %}
+
+    {% endif %}
 
   {% endfor %}
 </nav>

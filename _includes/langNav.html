@@ -1,0 +1,19 @@
+<nav>
+  {% for lang in site.data.navigation  %}
+
+        {% if lang[0] != page.lang %}
+
+            {% for item in lang[1] %}
+
+                {% if item.pid == page.pid %}
+
+                    <a href="{{item.link}}"> {{lang[0] | | upcase }} </a>
+
+                {% endif %}
+
+            {% endfor %}
+
+        {% endif %}
+
+  {% endfor %}
+</nav>

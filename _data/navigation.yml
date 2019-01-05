@@ -1,6 +1,21 @@
-- name: Home
-  link: /
-- name: Projekt
-  link: /projekt.html
-- name: Kontakt
-  link: kontakt.html
+de:
+  - name: Home
+    link: /
+    pid: home
+  - name: Projekt
+    link: /projekt.html
+    pid: proj
+  - name: Kontakt
+    link: kontakt.html
+    pid: cont
+
+it: 
+  - name: Home
+    link: /indexIT.html
+    pid: home
+  - name: Projetto
+    link: /projekt.html
+    pid: proj
+  - name: Contatto
+    link: kontakt.html
+    pid: cont
