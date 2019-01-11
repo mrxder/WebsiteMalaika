@@ -10,10 +10,10 @@ before_script:
 script: ./script/cibuild
 
 # branch whitelist, only for GitHub Pages
-branches:
-  only:
-  - gh-pages     # test the gh-pages branch
-  - /pages-(.*)/ # test every branch which starts with "pages-"
+#branches:
+#  only:
+#  - gh-pages     # test the gh-pages branch
+#  - /pages-(.*)/ # test every branch which starts with "pages-"
 
 env:
   global:
@@ -30,4 +30,4 @@ cache: bundler # caching bundler gem packages will speed up build
 
 # Optional: disable email notifications about the outcome of your builds
 notifications:
-  email: false
+  email: true
