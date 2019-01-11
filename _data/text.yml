@@ -13,10 +13,39 @@ de:
     altGroupPic: Mitglieder Malaika
   
   proj:
+    prob_h1: "Problematik"
+    prob_text_1: "Kenia ist das Land mit der am besten entwickelten Volkswirtschaft Ostafrikas und trotzdem lebt fast die Hälfte der Bevölkerung unter der Armutsgrenze. 80 % der Kenianer und Kenianerinnen leben von der Landwirtschaft. In den letzten Jahren kam es aber immer wieder zu Unterbrechungen der Nahrungsmittelproduktion, was für viele Familien eine große Herausforderung darstellt. Einige können aufgrund der Umstände nicht ausreichend für alle Familienmitglieder sorgen und lassen somit einige Kinder ziehen. Die Waisenhäuser nehmen in diesem Fall viele Kinder auf, sind aber letztendlich auch zu wenige für alle. Im Jahre 2009 wurden 300.000 Straßenkinder gezählt, wovon 60.000 allein in Nairobi leben. Expert*innen gehen aber von einer weitaus höheren Dunkelziffer aus."
+    prob_text_2: "Seit 2003 ist die Grundschulausbildung in Kenia kostenlos für alle zugänglich. Diese positive Wendung muss jedoch noch seine Entwicklung vervollständigen. Durch die Möglichkeit, die Schule zu besuchen, ist die Anzahl an Schüler*innen drastisch gestiegen, jedoch nicht die der Lehrpersonen. Dies führte zu überfüllten Klassenräumen und hohen Anforderungen an das Lehrpersonal."
+    descript_h1: Projektbeschreibung
+    descript_text_1: "Das Projekt „Oasis Rescue Centre“ wurde 2012 ins Leben gerufen. Dabei handelt es sich um ein zukünftiges Waisenhaus, das sich derzeit noch im Bau befindet. 2013 wurde mit den Bauarbeiten begonnen und 2018 wurde es nach der offiziellen Registrierung in „OASIS OF ENDLESS HOPE CENTRE“ umbenannt. Das Waisenhaus befindet sich etwas außerhalb von Ruiru, einer Stadt mit 220.000 Einwohner*innen in der Zentralprovinz Kenias. Ruiru liegt nur 3 km von Nairobi, der Hauptstadt Kenias, entfernt."
+    descript_text_2: "Das „OASIS OF ENDLESS HOPE CENTRE“ soll 40 Jugendlichen, die auf den Straßen Nairobis leben, ein Zuhause geben. Das drei-stöckige Gebäude beinhaltet neben den Schlafräumen Werkstätten, in denen die Heranwachsenden verschiedenen handwerklichen Tätigkeiten nachgehen und erlernen können. Die erworbenen Fähigkeiten sollten auch dem Waisenhaus zugute kommen, indem die Heimbewohner*innen bei der Wartung dieser Struktur Hand anlegen können."
+    descript_text_3: "Neben dem Hauptgebäude wurde eine Halle errichtet, die als Speisesaal und Versammlungsraum dienen wird. 2016 wurde eine Farm in der Nähe von Naivasha erworben, auf der die jungen Heranwachsenden landwirtschaftliche Kompetenzen erlernen und einen Teil ihrer Nahrung selbst erzeugen können. Der Überschuss kann am Markt verkauft werden um so das Projekt eine Teil finanziell unabhängiger zu machen."
+    goal_h1: Ziele
+    goal_h2: "Derzeitiges Ziel ist die Fertigstellung des Waisenhauses. Geplanter Zeitpunkt hierfür ist Ende 2020."
+    goal_list: "                    <ul>
+                        Ziele für die Zukunft:
+                        <li>Straßenjugendlichen ein Zuhause bieten</li>
+                        <li>Herausfinden, ob die Jugendlichen noch Familie haben und wenn möglich Familienzusammenführung</li>
+                        <li>Herausfinden, ob die Jugendlichen noch Familie haben und wenn möglich Familienzusammenführung</li>
+                        <li>Schulische Ausbildung gewährleisten</li>
+                        <li>Erlernen handwerklicher Fähigkeiten</li>
+                        <li>Integration in die Arbeitswelt</li>
+                    </ul>"
+    target_h1: Zielgruppe
+    target_text: "Die Zielgruppe des Projekts sind Jugendliche, die auf den Straßen Nairobis leben. Jugendliche, die schon seit mehreren Jahren auf der Straße leben, haben es in Kenia besonders schwer, wieder einen Platz in der Gesellschaft zu erlangen. Viele Projekte nehmen nur Kinder bis zu 9 Jahren auf und schreiben ältere Kinder bereits im Vorhinein ab. Deshalb wird das Projekt gezielt Kinder ab 9 Jahre aufnehmen"
     duncan_h1: Duncan Kimani
     duncan_p: "Duncan wurde am 06.11.1980 in Kenia geboren. Nach seinem Bachelor in Leadership an der St. Pausl’s Univeristy Kenya machte er einen Master in Leadership and Sustainability an der Liberty University in den USA. Vier Jahre lang arbeitete er für „Bluesky adventures Kenya“ im Teambuildingbereich. 2007 gründetet er die Organisation „Care for AIDS“ und arbeitet dort seit daher als Direktor."
     patrick_h1: Patrick Mwangi
     patrick_p: "Patrick wurde am 25.05.1975 in Kenia geboren. Er hat den Abschluss in Graphic Design auf dem Bururburu Institute of Art and Design erworben und danach für „Bata shoe co.“ als Designer gearbeitet. Später hat er als Projektmaneger für „African Impact“ gearbeitet und seit 2014 ist er bei „Care for AIDS“ tätig."
+    gallery_h1: Fotos aus Kenia
+    gallery_p: "Malaika hilft beim Aufbau"
+  cont:
+    main_h1: "Kontakt"
+    cont_list: '<ul>
+                <li><a href="mailto:malaika.kenia@hotmail.com">E-Mail: malaika.kenia@hotmail.com</a></li>
+                <li>+39 340 459 5871 Lukas Gschnitzer</li>
+                <li>+39 349 632 2432 Carolin Baldassarre</li>
+            </ul>'
 
 it:
   home:

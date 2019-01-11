@@ -3,18 +3,15 @@ title: Mailaika Kontakt
 pid: cont
 lang: de
 ---
+{% include glob.html %}
+
 <!--Contact-->
 <section id="one" class="wrapper style1">
 
         <header class="special">
-            <h2>Kontakt</h2>
-            <p>Text ?</p>
+            <h2>{{text.main_h1}}</h2>
         </header>
         <div class="content">
-            <ul>
-                <li><a href="mailto:malaika.kenia@hotmail.com">E-Mail: malaika.kenia@hotmail.com</a></li>
-                <li>+39 340 459 5871 Lukas Gschnitzer</li>
-                <li>+39 349 632 2432 Carolin Baldassarre</li>
-            </ul>
+            {{text.cont_list}}
         </div>
     </section>
