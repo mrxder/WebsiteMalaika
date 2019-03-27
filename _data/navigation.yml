@@ -1,9 +1,9 @@
 de:
   - name: Home
-    link: /
+    link: ""
     pid: home
   - name: Projekt
-    link: /projekt.html
+    link: projekt.html
     pid: proj
   - name: Kontakt
     link: kontakt.html

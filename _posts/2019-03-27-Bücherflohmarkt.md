@@ -1,4 +1,4 @@
 ---
 author: Matthias
 ---
-![Bücherflohmarkt](/assets/img/Bücherflohmarkt_19_web_header_Zeichenfläche.jpg)
+![Bücherflohmarkt](assets/img/Buecherflohmarkt_19_web_header.jpg)
