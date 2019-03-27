@@ -2675,7 +2675,7 @@
 		}
 
 		.spotlight .inner {
-			padding: 6rem;
+			padding: 5rem;
 		}
 
 		.spotlight .image {
@@ -2902,7 +2902,6 @@
 
 	body {
 		background-color: #1e1f23;
-		padding-top: 8rem;
 	}
 
 		body.is-loading:after {

@@ -1,5 +1,5 @@
 #mainHeaderLogo {
-  max-width: 600px;
+  max-width: 500px;
 }
 
 
@@ -10,24 +10,45 @@
 }
 
 /* menu */
-nav {
+#navi {
     display: block;
     width: 100%;
+    height: 50px;
     background-color: #86c400;
 }
-nav a {
+
+nav {
+    float: left;
+}
+
+#langNav {
+    float: right;
+}
+
+#navi a {
     display: inline-block;
     padding: 10px;
     text-decoration: none;
     color: white;
 }
 
-nav a:hover {
+#navi a:hover {
     text-decoration: underline;
 }
 
-nav a.current {
+#navi a.current {
     text-decoration: underline;
+}
+
+/* main */
+.news {
+    list-style: none;
+}
+
+/* footer */
+
+.icon img {
+    width: 80px;
 }
 
 /* Progress bar */

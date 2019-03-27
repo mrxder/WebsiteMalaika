@@ -5,9 +5,13 @@ de:
     malaikaDesc: „MALAIKA“, die Eine-Welt-Gruppe Sterzing hat sich 2013 über die oew – Organisation für Eine solidarische Welt gegründet. Ziel der Gruppe ist die Unterstützung sozialer Projekte in Kenia. Zur Zeit liegt das Hauptziel darin, den Bau des Waisenhauses zu fördern. Dies gelingt durch verschiedene Aktionen und Vorträge in Südtirol und durch die gute Zusammenarbeit mit den Projektpartnern in Kenia.
     h1news : News
     h1donate: Spenden
+    h2donate: Mit 25 € im Monat kann der Platz für einen jungen Menschen im Waisenhaus finanziert werden.
     beforeProgressBar: Wir haben bereits 25% des Benötigten geldes zusammen.
     donationMain: "Unser Spendenkonto:"
-    bankDetails: "IBAN: IT9234342342342 <br> BIC:BDS53 <br> Bank: Raiffeisen..."
+    bankDetails: "OEW-ORG. FUER EINE SOLIDARISCHE WELT<br>
+                  EINE-WELT-GRUPPE STERZING<br>
+                  IT 31 F 08182 59110 0003000 429 19"
+    taxInfo: "Deine Spende kann von der Steuer abgesetzt werden."
 
 
     altGroupPic: Mitglieder Malaika
@@ -17,11 +21,11 @@ de:
     prob_text_1: "Kenia ist das Land mit der am besten entwickelten Volkswirtschaft Ostafrikas und trotzdem lebt fast die Hälfte der Bevölkerung unter der Armutsgrenze. 80 % der Kenianer und Kenianerinnen leben von der Landwirtschaft. In den letzten Jahren kam es aber immer wieder zu Unterbrechungen der Nahrungsmittelproduktion, was für viele Familien eine große Herausforderung darstellt. Einige können aufgrund der Umstände nicht ausreichend für alle Familienmitglieder sorgen und lassen somit einige Kinder ziehen. Die Waisenhäuser nehmen in diesem Fall viele Kinder auf, sind aber letztendlich auch zu wenige für alle. Im Jahre 2009 wurden 300.000 Straßenkinder gezählt, wovon 60.000 allein in Nairobi leben. Expert*innen gehen aber von einer weitaus höheren Dunkelziffer aus."
     prob_text_2: "Seit 2003 ist die Grundschulausbildung in Kenia kostenlos für alle zugänglich. Diese positive Wendung muss jedoch noch seine Entwicklung vervollständigen. Durch die Möglichkeit, die Schule zu besuchen, ist die Anzahl an Schüler*innen drastisch gestiegen, jedoch nicht die der Lehrpersonen. Dies führte zu überfüllten Klassenräumen und hohen Anforderungen an das Lehrpersonal."
     descript_h1: Projektbeschreibung
+    descript_h2: "Derzeitiges Ziel ist die Fertigstellung des Waisenhauses. Geplanter Zeitpunkt hierfür ist Ende 2020."
     descript_text_1: "Das Projekt „Oasis Rescue Centre“ wurde 2012 ins Leben gerufen. Dabei handelt es sich um ein zukünftiges Waisenhaus, das sich derzeit noch im Bau befindet. 2013 wurde mit den Bauarbeiten begonnen und 2018 wurde es nach der offiziellen Registrierung in „OASIS OF ENDLESS HOPE CENTRE“ umbenannt. Das Waisenhaus befindet sich etwas außerhalb von Ruiru, einer Stadt mit 220.000 Einwohner*innen in der Zentralprovinz Kenias. Ruiru liegt nur 3 km von Nairobi, der Hauptstadt Kenias, entfernt."
     descript_text_2: "Das „OASIS OF ENDLESS HOPE CENTRE“ soll 40 Jugendlichen, die auf den Straßen Nairobis leben, ein Zuhause geben. Das drei-stöckige Gebäude beinhaltet neben den Schlafräumen Werkstätten, in denen die Heranwachsenden verschiedenen handwerklichen Tätigkeiten nachgehen und erlernen können. Die erworbenen Fähigkeiten sollten auch dem Waisenhaus zugute kommen, indem die Heimbewohner*innen bei der Wartung dieser Struktur Hand anlegen können."
     descript_text_3: "Neben dem Hauptgebäude wurde eine Halle errichtet, die als Speisesaal und Versammlungsraum dienen wird. 2016 wurde eine Farm in der Nähe von Naivasha erworben, auf der die jungen Heranwachsenden landwirtschaftliche Kompetenzen erlernen und einen Teil ihrer Nahrung selbst erzeugen können. Der Überschuss kann am Markt verkauft werden um so das Projekt eine Teil finanziell unabhängiger zu machen."
     goal_h1: Ziele
-    goal_h2: "Derzeitiges Ziel ist die Fertigstellung des Waisenhauses. Geplanter Zeitpunkt hierfür ist Ende 2020."
     goal_list: "                    <ul>
                         Ziele für die Zukunft:
                         <li>Straßenjugendlichen ein Zuhause bieten</li>

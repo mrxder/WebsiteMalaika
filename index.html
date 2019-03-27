@@ -33,10 +33,14 @@ lang: de
 
                 {% for post in site.posts %}
 
-                <li>
+                <hr>
+
+                <li class="news">
                     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
                     <p>{{ post.excerpt }}</p>
                 </li>
+
+                <hr>
 
                 {% endfor %}
 
@@ -49,6 +53,7 @@ lang: de
 
                 <header>
                     <h2>{{text.h1donate}}</h2>
+                    <p>{{text.h2donate}}</p>
                 </header>
                 <div class="content">
 
@@ -59,6 +64,7 @@ lang: de
 
                     <p>{{text.donationMain}}</p>
                     <p>{{text.bankDetails}}</p>
+                    <p><i>{{text.taxInfo}}</i></p>
     
                 </div>
                 
