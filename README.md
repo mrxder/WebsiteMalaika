@@ -1,10 +1,11 @@
 # Webpage for Malaika
 [![Build Status](https://travis-ci.com/mrxder/WebsiteMalaika.svg?branch=master)](https://travis-ci.com/mrxder/WebsiteMalaika)
 
-Malaika is group of people which organices charity events to collect dontaions. The mony should be donated to a projeckt for children in afrika. 
+Malaika is a charity organisation which organises events 
+to collect donations in order to help orphan children.
 
 ## Technology
-* This page is bould with jekyll.
+* This page is build with jekyll.
 * It is hosted on AWS S3 and served over CloudFront
 
 ## How to contribute
