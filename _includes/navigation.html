@@ -9,10 +9,13 @@
 
     {% for item in lang[1] %}
 
+      {% if item.listed == true %}
 
-      <a href="{{ item.link }}" {% if page.url == item.link %}class="current" {% endif %}>
-      {{item.name}}
-      </a>
+        <a href="{{ item.link }}" {% if page.url == item.link %}class="current" {% endif %}>
+        {{item.name}}
+        </a>
+
+      {% endif %}
 
     {% endfor %}
 

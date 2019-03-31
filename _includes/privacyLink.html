@@ -1,0 +1,24 @@
+
+    {% for lang in site.data.navigation  %}
+
+
+
+    {% if lang[0] == page.lang %}
+
+
+
+    {% for item in lang[1] %}
+
+    {% if item.pid == "priv" %}
+
+    <a href="{{ item.link }}">
+        {{item.name}}
+    </a>
+
+    {% endif %}
+
+    {% endfor %}
+
+    {% endif %}
+
+    {% endfor %}

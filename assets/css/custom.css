@@ -45,6 +45,18 @@ nav {
     list-style: none;
 }
 
+.news img {
+    max-width: 100%;
+}
+
+@media (max-width: 1300px) {
+
+    .news img {
+        width: 100%;
+    }
+
+}
+
 /* footer */
 
 .icon img {

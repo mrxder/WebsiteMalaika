@@ -1,21 +1,35 @@
 de:
   - name: Home
-    link: ""
+    link: /index.html
     pid: home
+    listed: true
   - name: Projekt
-    link: projekt.html
+    link: /projekt.html
     pid: proj
+    listed: true
   - name: Kontakt
-    link: kontakt.html
+    link: /kontakt.html
     pid: cont
+    listed: true
+  - name: Privacy
+    link: /privacy.html
+    pid: priv
+    listed: false
 
-it: 
+it:
   - name: Home
     link: /indexIT.html
     pid: home
-  - name: Projetto
+    listed: true
+  - name: Projekt
     link: /projekt.html
     pid: proj
-  - name: Contatto
-    link: kontakt.html
+    listed: true
+  - name: Kontakt
+    link: /kontakt.html
     pid: cont
+    listed: true
+  - name: Privacy
+    link: /privacy.html
+    pid: priv
+    listed: false
