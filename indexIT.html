@@ -26,25 +26,6 @@ lang: it
             <div class="image fit flush">
                 <img src="{{lImg}}Collage_Gruppenbild_malaika_kl.jpg" alt="{{altGroupPic}}" />
             </div>
-            <header class="special">
-                <h2>{{text.h1news}}</h2>
-            </header>
-            <div class="content">
-
-                {% for post in site.posts %}
-
-                <hr>
-
-                <li class="news">
-                    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-                    <p>{{ post.excerpt }}</p>
-                </li>
-
-                <hr>
-
-                {% endfor %}
-
-            </div>
             
         </section>
 
