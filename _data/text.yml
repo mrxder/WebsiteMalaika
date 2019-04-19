@@ -6,7 +6,7 @@ de:
     h1news : News
     h1donate: Spenden
     h2donate: Mit 25 € im Monat kann der Platz für einen jungen Menschen im Waisenhaus finanziert werden.
-    beforeProgressBar: "Wir haben bereits 55% des Benötigten Geldes zusammen."
+    beforeProgressBar: "Wir haben bereits 55 % des benötigten Geldes zusammen."
     bankDetails: "OEW-ORG. FUER EINE SOLIDARISCHE WELT<br>
                   EINE-WELT-GRUPPE STERZING<br>
                   IT 31 F 08182 59110 0003000 429 19"
@@ -23,12 +23,11 @@ de:
     descript_h2: "Derzeitiges Ziel ist die Fertigstellung des Waisenhauses. Geplanter Zeitpunkt hierfür ist Ende 2020."
     descript_text_1: "Das Projekt „Oasis Rescue Centre“ wurde 2012 ins Leben gerufen. Dabei handelt es sich um ein zukünftiges Waisenhaus, das sich derzeit noch im Bau befindet. 2013 wurde mit den Bauarbeiten begonnen und 2018 wurde es nach der offiziellen Registrierung in „OASIS OF ENDLESS HOPE CENTRE“ umbenannt. Das Waisenhaus befindet sich etwas außerhalb von Ruiru, einer Stadt mit 220.000 Einwohner*innen in der Zentralprovinz Kenias. Ruiru liegt nur 3 km von Nairobi, der Hauptstadt Kenias, entfernt."
     descript_text_2: "Das „OASIS OF ENDLESS HOPE CENTRE“ soll 40 Jugendlichen, die auf den Straßen Nairobis leben, ein Zuhause geben. Das drei-stöckige Gebäude beinhaltet neben den Schlafräumen Werkstätten, in denen die Heranwachsenden verschiedenen handwerklichen Tätigkeiten nachgehen und erlernen können. Die erworbenen Fähigkeiten sollten auch dem Waisenhaus zugute kommen, indem die Heimbewohner*innen bei der Wartung dieser Struktur Hand anlegen können."
-    descript_text_3: "Neben dem Hauptgebäude wurde eine Halle errichtet, die als Speisesaal und Versammlungsraum dienen wird. 2016 wurde eine Farm in der Nähe von Naivasha erworben, auf der die jungen Heranwachsenden landwirtschaftliche Kompetenzen erlernen und einen Teil ihrer Nahrung selbst erzeugen können. Der Überschuss kann am Markt verkauft werden um so das Projekt eine Teil finanziell unabhängiger zu machen."
+    descript_text_3: "Neben dem Hauptgebäude wurde eine Halle errichtet, die als Speisesaal und Versammlungsraum dienen wird. 2016 wurde eine Farm in der Nähe von Naivasha erworben, auf der die jungen Heranwachsenden landwirtschaftliche Kompetenzen erlernen und einen Teil ihrer Nahrung selbst erzeugen können. Der Überschuss kann am Markt verkauft werden um so das Projekt einen Teil finanziell unabhängiger zu machen."
     goal_h1: Ziele
     goal_list: "                    <ul>
                         Ziele für die Zukunft:
                         <li>Straßenjugendlichen ein Zuhause bieten</li>
-                        <li>Herausfinden, ob die Jugendlichen noch Familie haben und wenn möglich Familienzusammenführung</li>
                         <li>Herausfinden, ob die Jugendlichen noch Familie haben und wenn möglich Familienzusammenführung</li>
                         <li>Schulische Ausbildung gewährleisten</li>
                         <li>Erlernen handwerklicher Fähigkeiten</li>
@@ -52,5 +51,52 @@ de:
 
 it:
   home:
-    title: ital
-    text: babedibubedi
+    h1: MALAIKA
+    h2: Gruppo Un Mondo Vipiteno
+    malaikaDesc: „MALAIKA“, il gruppo “Un Mondo” di Vipiteno è stato fondato nel 2013 tramite l’oew, l’organizzazione per un mondo solidale. L’obiettivo del gruppo è il sostegno di progetti sociali in Kenia. Attualmente l’obiettivo principale è promuovere la costruzione dell’orfanotrofio. Ciò funziona grazie a varie campagne e convegni in Alto Adige, ma anche grazie alla buona collaborazione con i partner del progetto in Kenia.
+    h1news : News
+    h1donate: Donazioni
+    h2donate: Il posto per un adolescente costa 25 € al mese.
+    beforeProgressBar: "Abbiamo giá 55 % del importo finale."
+    bankDetails: "OEW-ORG. FUER EINE SOLIDARISCHE WELT<br>
+                  EINE-WELT-GRUPPE STERZING<br>
+                  IT 31 F 08182 59110 0003000 429 19"
+    taxInfo: "La tua donazione e detraibile dell'imposta."
+
+
+    altGroupPic: Membri Malaika
+  
+  proj:
+    prob_h1: "La problematica"
+    prob_text_1: "Il Kenia è il Paese con l’economia politica più sviluppata di tutta l’Africa orientale. Ciononostante, quasi la metà della popolazione vive al di sotto della soglia di povertà. L’80 %  degli abitanti vive di agricoltura. Negli ultimi anni però la produzione alimentare è stata interrotta più volte. Ciò  rappresentava una grande sfida per tante famiglie. Alcune famiglie, in queste circostanze, non sono più in grado di provvedere a tutti i membri e perciò lasciano andare via alcuni figli. Gli orfanotrofi accolgono tanti di essi, ma non ci sono abbastanza posti per tutti. Nel 2009 si contavano 300.000 bambini di strada, di cui 60.000 vivono a Nairobi. Si presume però, che i dati non rilevati dalle statistiche siano molto più alti."
+    prob_text_2: "A partire dal 2003 l’accesso all’istruzione scolastica elementare in Kenia è gratuito. Lo sviluppo di questa svolta positiva però deve ancora completarsi. Con la possibilità di frequentare gratuitamente la scuola è cresciuto drasticamente il numero degli studenti, ma non quello degli insegnanti. Ciò comporta aule strapiene e pretese alte verso il corpo docente."
+    descript_h1: Descrizione del progetto
+    descript_h2: "L’obiettivo attuale è il completamento dell’orfanotrofio entro la fine del 2020."
+    descript_text_1: "Il progetto “Oasis Rescue Centre” è nato nel 2012. Si tratta di un orfanotrofio, attualmente ancora in costruzione. I lavori sono iniziati nel 2013 e nel 2018, dopo la registrazione ufficiale, e stato cambiato il nome in “OASIS OF ENDLESS HOPE CENTRE”. L’orfanotrofio si trova appena fuori Ruiru, una cittadina di 220.000 abitanti nella provincia centrale del Kenia. Ruiru dista solo di 3 km da Nairobi, la capitale."
+    descript_text_2: "Nell’”OASIS OF ENDLESS HOPE CENTRE” ci sarà posto per 40 giovani che attualmente vivono per le strade di Nairobi. L’edificio a tre piani, oltre alle camere da letto, è composto da officine in cui i ragazzi possono fare artigianato ed imparare dei mestieri. Le competenze acquisite dovrebbero tornare utili anche all’orfanotrofio stesso, coinvolgendo gli inquilini alla manutenzione della struttura."
+    descript_text_3: "Accanto al edificio principale è stato costruito un altro edificio che fungerà da sala da pranzo e sala delle riunioni. Nel 2016 è stata acquistata una fattoria nelle vicinanze di Naivasha, dove i ragazzi potranno acquisire competenze agricole e produrre autonomamente parte del loro cibo. Gli prodotti in eccedenza potranno essere venduti al mercato. In questo modo il progetto sarà più indipendente in termini economici."
+    goal_h1: Gli obiettivi
+    goal_list: "                    <ul>
+                        Gli obiettivi futuri:
+                        <li>Offrire una casa ai ragazzi di strada</li>
+                        <li>Capire se questi giovani hanno ancora una famiglia e, se possibile, organizzare il ricongiungimento familiare</li>
+                        <li>Garantire la formazione scolastica</li>
+                        <li>Insegnamento di competenze artigianali</li>
+                        <li>Integrazione nel mondo del lavoro</li>
+                    </ul>"
+    target_h1: Il target
+    target_text: "Il target del progetto sono giovani che vivono per le strade di Nairobi.
+In Kenia, i ragazzi che vivono in strada da tanto tempo, fanno particolarmente fatica a reintegrarsi  nella società. Tanti progetti offrono posti solo per bambini fino ai 9 anni e non accolgono ragazzi più grandi. Perciò questo progetto ospiterà ragazzi dai 9 anni in sù."
+    duncan_h1: Duncan Kimani
+    duncan_p: "DDuncan è nato il 06.11.1980 in Kenia. Dopo la laurea triennale in “Leadership” presso la St. Paul’s University Kenya, ha fatto una laurea magistrale in “Leadership and Sustainability” presso la Liberty University negli Stati Uniti. Per quattro anni lavorava nell’ambito del teambuilding presso la ditta „Bluesky adventures Kenya“. Nel 2007 ha fondato l’organizzazione “Care for AIDS”, di cui è il direttore."
+    patrick_h1: Patrick Mwangi
+    patrick_p: "Patrick è nato il 25.05.1975 in Kenia. Si è laureato in “Graphic Design” presso il Bururburu Institute of Art and Design e ha lavorato dopo come designer per „Bata shoe co.“. Dopodiché ha lavorato come project manager per „African Impact“ e dal 2014 lavora presso „Care for AIDS“."
+    gallery_h1: Foto del Kenya
+    gallery_p: "Malaika aiuta ai costruzioni"
+  cont:
+    main_h1: "Contatti"
+    cont_list: '<ul>
+                <li><a href="mailto:malaika.kenia@hotmail.com">E-Mail: malaika.kenia@hotmail.com</a></li>
+                <li>+39 340 459 5871 Lukas Gschnitzer</li>
+                <li>+39 349 632 2432 Carolin Baldassarre</li>
+            </ul>'

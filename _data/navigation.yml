@@ -21,12 +21,12 @@ it:
     link: /indexIT.html
     pid: home
     listed: true
-  - name: Projekt
-    link: /projekt.html
+  - name: Progetto
+    link: /progetto.html
     pid: proj
     listed: true
-  - name: Kontakt
-    link: /kontakt.html
+  - name: Contatto
+    link: /contatto.html
     pid: cont
     listed: true
   - name: Privacy
