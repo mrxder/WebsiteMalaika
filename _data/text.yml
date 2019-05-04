@@ -47,8 +47,15 @@ de:
                 <li><a href="mailto:malaika.kenia@hotmail.com">E-Mail: malaika.kenia@hotmail.com</a></li>
                 <li>+39 340 459 5871 Lukas Gschnitzer</li>
                 <li>+39 349 632 2432 Carolin Baldassarre</li>
-            </ul>'
-
+               </ul>'
+  spe:
+    main_h1: "Schnurz Piep Egal 2019"
+    p_1: "Am 8. Juni 2019 veranstalten wir gemeinsam mit der Eine-Welt-Gruppe Wiesen, dem Weltladen Sterzing und dem Jugenddienst Wipptal das Sommerfest \"SchnurzPiepEgal\" im Gemeindepark Wiesen."
+    p_2: "Ab 11:00 Uhr gibt es ein buntes Programm für Klein und Groß. Verschiedene Artist*innen und Bands sorgen den ganzen Tag über bis Mitternacht für Stimmung!"
+    price: "Eintritt: freiwillige Spende.<br>Der Gewinn geht wieder an den Bau des Waisenhauses in Ruiru, Kenia."
+    wheater: "Bei schlechter Witterung findet die Veranstaltung in der Festhalle gleich neben dem Gemeindepark statt."
+    arrival: "Anreise mit den öffentlichen Verkehrsmitteln:<br>Vom Bahnhof Sterzing - Wiesen/Pfitsch mit dem Bus 311 nach Pfitsch bis zur Kirche in Wiesen. Von dort aus sind es 2 Minuten zu Fuß bis zum Gemeindepark."
+    
 it:
   home:
     h1: MALAIKA
@@ -100,3 +107,10 @@ In Kenia, i ragazzi che vivono in strada da tanto tempo, fanno particolarmente f
                 <li>+39 340 459 5871 Lukas Gschnitzer</li>
                 <li>+39 349 632 2432 Carolin Baldassarre</li>
               </ul>'
+  spe:
+    main_h1: "Schnurz Piep Egal 2019"
+    p_1: "L' 8 giungno 2019 organizziamo insieme con il gruppo \"Eine-Welt-Gruppe Wiesen\", la bottegha del mondo di Vipiteno e il \"Jugenddienst Wipptal\" la festa estiva \"SchnurzPiepEgal\" nel parco comunale di Prati."
+    p_2: "Dalle ore 11 abbiamo un programma per tutti i nostri ospiti. Diversi artisti e musicisti faranno la festa ancora piú speciale."
+    price: "Entrata: offerta libera.<br>Il guadagno di nuovo sará usato per l'orfanotrofeo a Ruiru in Kenya."
+    wheater: "In caso di maltempo la festa si svolgerá nella sala vicino il parco."
+    arrival: "Arrivo con i mezzi pubblici:<br>Dalla stazione ferroviaria di Vipiteno - Prati/Val di Vizze prendete il bus 311 per Val di Vizze fino alla chiesa di Prati. Da lì ci sono 2 minuti a piedi fino il parco comunale."

@@ -2922,7 +2922,7 @@
 			background-image: url(../img/bg.jpg);
 			background-attachment: fixed;
 			background-position: center;
-			background-repeat: no-repeat;
+			background-repeat: repeat;
 			background-size: cover;
 			position: fixed;
 			display: block;

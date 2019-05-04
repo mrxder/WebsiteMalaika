@@ -11,6 +11,10 @@ de:
     link: /kontakt.html
     pid: cont
     listed: true
+  - name: Schnurz Piep Egal
+    link: /spe.html
+    pid: spe
+    listed: true
   - name: Privacy
     link: /privacy.html
     pid: priv
@@ -28,6 +32,10 @@ it:
   - name: Contatto
     link: /contatto.html
     pid: cont
+    listed: true
+  - name: Schnurz Piep Egal
+    link: /spe_it.html
+    pid: spe
     listed: true
   - name: Privacy
     link: /privacy.html
