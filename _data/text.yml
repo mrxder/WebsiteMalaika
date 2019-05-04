@@ -22,7 +22,7 @@ de:
     descript_h1: Projektbeschreibung
     descript_h2: "Derzeitiges Ziel ist die Fertigstellung des Waisenhauses. Geplanter Zeitpunkt hierfür ist Ende 2020."
     descript_text_1: "Das Projekt „Oasis Rescue Centre“ wurde 2012 ins Leben gerufen. Dabei handelt es sich um ein zukünftiges Waisenhaus, das sich derzeit noch im Bau befindet. 2013 wurde mit den Bauarbeiten begonnen und 2018 wurde es nach der offiziellen Registrierung in „OASIS OF ENDLESS HOPE CENTRE“ umbenannt. Das Waisenhaus befindet sich etwas außerhalb von Ruiru, einer Stadt mit 220.000 Einwohner*innen in der Zentralprovinz Kenias. Ruiru liegt nur 3 km von Nairobi, der Hauptstadt Kenias, entfernt."
-    descript_text_2: "Das „OASIS OF ENDLESS HOPE CENTRE“ soll 40 Jugendlichen, die auf den Straßen Nairobis leben, ein Zuhause geben. Das drei-stöckige Gebäude beinhaltet neben den Schlafräumen Werkstätten, in denen die Heranwachsenden verschiedenen handwerklichen Tätigkeiten nachgehen und erlernen können. Die erworbenen Fähigkeiten sollten auch dem Waisenhaus zugute kommen, indem die Heimbewohner*innen bei der Wartung dieser Struktur Hand anlegen können."
+    descript_text_2: "Das „OASIS OF ENDLESS HOPE CENTRE“ soll 40 Jugendlichen, die auf den Straßen Nairobis leben, ein Zuhause geben. Das mehrstöckige Gebäude beinhaltet neben den Schlafräumen Werkstätten, in denen die Heranwachsenden verschiedenen handwerklichen Tätigkeiten nachgehen und erlernen können. Die erworbenen Fähigkeiten sollten auch dem Waisenhaus zugute kommen, indem die Heimbewohner*innen bei der Wartung dieser Struktur Hand anlegen können."
     descript_text_3: "Neben dem Hauptgebäude wurde eine Halle errichtet, die als Speisesaal und Versammlungsraum dienen wird. 2016 wurde eine Farm in der Nähe von Naivasha erworben, auf der die jungen Heranwachsenden landwirtschaftliche Kompetenzen erlernen und einen Teil ihrer Nahrung selbst erzeugen können. Der Überschuss kann am Markt verkauft werden um so das Projekt einen Teil finanziell unabhängiger zu machen."
     goal_h1: Ziele
     goal_list: "                    <ul>
@@ -34,7 +34,7 @@ de:
                         <li>Integration in die Arbeitswelt</li>
                     </ul>"
     target_h1: Zielgruppe
-    target_text: "Die Zielgruppe des Projekts sind Jugendliche, die auf den Straßen Nairobis leben. Jugendliche, die schon seit mehreren Jahren auf der Straße leben, haben es in Kenia besonders schwer, wieder einen Platz in der Gesellschaft zu erlangen. Viele Projekte nehmen nur Kinder bis zu 9 Jahren auf und schreiben ältere Kinder bereits im Vorhinein ab. Deshalb wird das Projekt gezielt Kinder ab 9 Jahre aufnehmen"
+    target_text: "Die Zielgruppe des Projekts sind Jugendliche, die auf den Straßen Nairobis leben. Jugendliche, die schon seit mehreren Jahren auf der Straße leben, haben es in Kenia besonders schwer, wieder einen Platz in der Gesellschaft zu erlangen. Viele Projekte nehmen nur Kinder bis zu 9 Jahren auf und schreiben ältere Kinder bereits im Vorhinein ab. Deshalb wird das Projekt gezielt Kinder ab 9 Jahre aufnehmen."
     duncan_h1: Duncan Kimani
     duncan_p: "Duncan wurde am 06.11.1980 in Kenia geboren. Nach seinem Bachelor in Leadership an der St. Pausl’s Univeristy Kenya machte er einen Master in Leadership and Sustainability an der Liberty University in den USA. Vier Jahre lang arbeitete er für „Bluesky adventures Kenya“ im Teambuildingbereich. 2007 gründetet er die Organisation „Care for AIDS“ und arbeitet dort seit daher als Direktor."
     patrick_h1: Patrick Mwangi
@@ -73,7 +73,7 @@ it:
     descript_h1: Descrizione del progetto
     descript_h2: "L’obiettivo attuale è il completamento dell’orfanotrofio entro la fine del 2020."
     descript_text_1: "Il progetto “Oasis Rescue Centre” è nato nel 2012. Si tratta di un orfanotrofio, attualmente ancora in costruzione. I lavori sono iniziati nel 2013 e nel 2018, dopo la registrazione ufficiale, e stato cambiato il nome in “OASIS OF ENDLESS HOPE CENTRE”. L’orfanotrofio si trova appena fuori Ruiru, una cittadina di 220.000 abitanti nella provincia centrale del Kenia. Ruiru dista solo di 3 km da Nairobi, la capitale."
-    descript_text_2: "Nell’”OASIS OF ENDLESS HOPE CENTRE” ci sarà posto per 40 giovani che attualmente vivono per le strade di Nairobi. L’edificio a tre piani, oltre alle camere da letto, è composto da officine in cui i ragazzi possono fare artigianato ed imparare dei mestieri. Le competenze acquisite dovrebbero tornare utili anche all’orfanotrofio stesso, coinvolgendo gli inquilini alla manutenzione della struttura."
+    descript_text_2: "Nell’”OASIS OF ENDLESS HOPE CENTRE” ci sarà posto per 40 giovani che attualmente vivono per le strade di Nairobi. L’edificio a più piani, oltre alle camere da letto, è composto da officine in cui i ragazzi possono fare artigianato ed imparare dei mestieri. Le competenze acquisite dovrebbero tornare utili anche all’orfanotrofio stesso, coinvolgendo gli inquilini alla manutenzione della struttura."
     descript_text_3: "Accanto al edificio principale è stato costruito un altro edificio che fungerà da sala da pranzo e sala delle riunioni. Nel 2016 è stata acquistata una fattoria nelle vicinanze di Naivasha, dove i ragazzi potranno acquisire competenze agricole e produrre autonomamente parte del loro cibo. Gli prodotti in eccedenza potranno essere venduti al mercato. In questo modo il progetto sarà più indipendente in termini economici."
     goal_h1: Gli obiettivi
     goal_list: "                    <ul>
@@ -99,4 +99,4 @@ In Kenia, i ragazzi che vivono in strada da tanto tempo, fanno particolarmente f
                 <li><a href="mailto:malaika.kenia@hotmail.com">E-Mail: malaika.kenia@hotmail.com</a></li>
                 <li>+39 340 459 5871 Lukas Gschnitzer</li>
                 <li>+39 349 632 2432 Carolin Baldassarre</li>
-            </ul>'
+              </ul>'
