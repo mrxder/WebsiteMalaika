@@ -2919,7 +2919,7 @@
 			-ms-transition: opacity 1.5s ease-in-out, visibility 1.5s;
 			transition: opacity 1.5s ease-in-out, visibility 1.5s;
 			content: '';
-			background-image: url(../img/bg.jpg);
+			/*background-image: url(../img/bg.jpg);*/
 			background-attachment: fixed;
 			background-position: center;
 			background-repeat: repeat;
