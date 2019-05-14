@@ -7,13 +7,13 @@ de:
     link: /projekt.html
     pid: proj
     listed: true
-  - name: Kontakt
-    link: /kontakt.html
-    pid: cont
-    listed: true
   - name: Schnurz Piep Egal
     link: /spe.html
     pid: spe
+    listed: true
+  - name: Kontakt
+    link: /kontakt.html
+    pid: cont
     listed: true
   - name: Privacy
     link: /privacy.html
@@ -29,13 +29,13 @@ it:
     link: /progetto.html
     pid: proj
     listed: true
-  - name: Contatto
-    link: /contatto.html
-    pid: cont
-    listed: true
   - name: Schnurz Piep Egal
     link: /spe_it.html
     pid: spe
+    listed: true
+  - name: Contatto
+    link: /contatto.html
+    pid: cont
     listed: true
   - name: Privacy
     link: /privacy.html
