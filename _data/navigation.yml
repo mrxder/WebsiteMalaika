@@ -41,3 +41,25 @@ it:
     link: /privacy.html
     pid: priv
     listed: false
+
+en:
+  - name: Home
+    link: /indexEN.html
+    pid: home
+    listed: true
+  - name: Project
+    link: /project.html
+    pid: proj
+    listed: true
+  - name: Schnurz Piep Egal
+    link: /spe_en.html
+    pid: spe
+    listed: true
+  - name: Contact
+    link: /contact.html
+    pid: cont
+    listed: true
+  - name: Privacy
+    link: /privacy.html
+    pid: priv
+    listed: false
