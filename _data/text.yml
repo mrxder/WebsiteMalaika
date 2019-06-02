@@ -115,3 +115,60 @@ In Kenia, i ragazzi che vivono in strada da tanto tempo, fanno particolarmente f
     wheater: "In caso di maltempo la festa si svolgerá nella sala vicino il parco."
     arrival: "Arrivo con i mezzi pubblici:<br>Dalla stazione ferroviaria di Vipiteno - Prati/Val di Vizze prendete il bus 311 per Val di Vizze fino alla chiesa di Prati. Da lì ci sono 2 minuti a piedi fino il parco comunale."
     
+eng:
+  home:
+    h1: MALAIKA
+    h2: One-world-group Sterzing
+    malaikaDesc: „MALAIKA“ is the name of the one-world-group of the city of Vipiteno/Sterzing, Italy. This group was founded by the oew – Organisation für Eine solidarische Welt (organization for a solidary world) in 2013. The group has the aim of supporting social projects in Kenya. Currently all efforts are put towards supporting the building of an orphanage in Kenya. This work is possible because “MALAIKA” is organizing different activities and presentations in South Tyrol, Italy, as well as having a well-functioning cooperation with its project partners in Kenya.
+    h1news : News
+    h1donate: Donations
+    h2donate: By donating 25 € per month you can pay for the costs of one adolescent person living in the orphanage.
+    beforeProgressBar: "We have already collected 55% of the money needed."
+    bankDetails: "OEW-ORG. FUER EINE SOLIDARISCHE WELT<br>
+                  EINE-WELT-GRUPPE STERZING<br>
+                  IT 31 F 08182 59110 0003000 429 19"
+    taxInfo: "Your donation is deductible from taxes."
+
+
+    altGroupPic: Members of Malaika
+  
+  proj:
+    prob_h1: "Problems"
+    prob_text_1: "In Eastern Africa, Kenya is the country with the best developed national economy. Nevertheless, almost half of its population is living below the poverty line. 80% of the Kenyans are subsisting on agriculture. In the last years the food production has been interrupted repeatedly, which led to major challenges for many families. Several of them are unable to provide for sufficient food for all family members and are therefore leaving alone some of their children. Orphanages are accommodating many children, but their capacities are still too small to have space for everybody. The number of street children amounted to 300,000 in 2009, of which 60,000 alone are living in Nairobi. Experts are assuming that the estimated number of unreported cases is much higher."
+    prob_text_2: "Since 2003 elementary school in Kenya is free and open for everyone. As a result, the number of students has increased, but not the number of teachers. This led to overcrowded class rooms and very challenging work conditions for the teachers."
+    descript_h1: Description oft the project
+    descript_h2: "For the moment the aim is to complete the orphanage, planning to finish the work at the end of 2020."
+    descript_text_1: "The project „Oasis Rescue Centre“ was founded in 2012. The project involves an orphanage which currently is still under construction. In 2013 the construction work begun. After its official registration in 2018 the centre’s name was changed into “OASIS OF ENDLESS HOPE CENTRE”. The orphanage is located slightly outside of Ruiru, a city with 220,000 inhabitants in the central province of Kenya. Ruiru is situated only 3 km away from Nairobi, the capital of Kenya."
+    descript_text_2: "The „OASIS OF ENDLESS HOPE CENTRE“ will offer a home to 40 children who are living on the streets of Nairobi. The building has several floors and comprises dormitories as well as work shops, which offer the teenagers the possibility to practice and learn different technical skills. Consequently, the adolescents will also contribute to the maintenance of the orphanage with their acquired skills."
+    descript_text_3: "Next to the main building a hall has been constructed which is serving as a refectory and meeting hall. In 2016 a farm close to Naivasha was bought. Here the young adults can acquire agricultural know-how as well as produce some of their nourishments on their own. The surplus of their agricultural products can be sold on the marketplace, thus making the project in part financially independent."
+    goal_h1: Aims
+    goal_list: "                    <ul>
+                        Future aims:
+                        <li>Offering a home to street kids</li>
+                        <li>Finding out whether the teenagers still have a family and if it is so, trying to bring them together</li>
+                        <li>Providing educational training</li>
+                        <li>Learning of practical skills</li>
+                        <li>Integration in the working environment</li>
+                    </ul>"
+    target_h1: Target group
+    target_text: "The target group of the project are adolescents who are living on the streets of Nairobi. These teenagers have been living on the street already for several years. Therefore, it is especially difficult for them to reintegrate themselves in society. Many ongoing projects are accepting children only until the age of 9 rejecting older kids out of hand. Therefore is this project going to admit specifically children from the age of 9."
+    duncan_h1: Duncan Kimani
+    duncan_p: "Duncan was born in Kenya on November 11th, 1980. After the Bachelor’s Degree in Leadership at the St. Paul’s University Kenya he completed the Masters Degree in Leadership and Sustainability at the Liberty University in the USA. He worked for “Bluesky adventurese Kenya” in the team building field for four years. In 2007, he founded the organization “Care for AIDS” and has been working there in the position of director ever since."
+    patrick_h1: Patrick Mwangi
+    patrick_p: "Patrick was born in Kenya on May 25th, 1975. He graduated in Graphic Design at the Bururburu Institute of Art and Design. Subsequently, he worked as a designer for “Bata showe co.”. Later he was employed as project manager for “African Impact” and has been working with “Care for AIDS” since 2014."
+    gallery_h1: Pictures from Kenya
+    gallery_p: "Impressions of the construction"
+  cont:
+    main_h1: "Contact"
+    cont_list: '<ul>
+                <li><a href="mailto:malaika.kenia@hotmail.com">E-Mail: malaika.kenia@hotmail.com</a></li>
+                <li>+39 340 459 5871 Lukas Gschnitzer</li>
+                <li>+39 349 632 2432 Carolin Baldassarre</li>
+               </ul>'
+  spe:
+    main_h1: "Schnurz Piep Egal 2019"
+    p_1: "On June 8th 2019 we are organizing the summer festival “SchnurzPiepEgal” together with the one-world-group of the village of Wiesen/Prati, the “Weltladen” (a small fair trade registered cooperative society) of the city of Sterzing/Vipiteno and the youth organization of the Wipptal valley. The festival is taking place in the communal park of the village Wiesen/Prati."
+    p_2: "From 11 am until 24 pm there is a variety of different things going on for the young and the old. Several artists and bands are going to entertain you all day long until midnight."
+    price: "Admission: voluntary donation.<br>The proceeds are assigned to the construction of the orphanage in Ruiru, Kenya."
+    wheater: "Should the weather be bad will the event take place in the festival hall right next to the communal park."
+arrival: "Arriving by public transpor:<br>From the train station in Sterzing – Wiesen/Pfitsch (Vipiteno – Prati/Val di Vizze) with the bus no. 311 to the Pfitsch/Val di Vizze valley until the church in the village of Wiesen/Prati. From there it is only a 2 minutes’ walk until the communal park."
