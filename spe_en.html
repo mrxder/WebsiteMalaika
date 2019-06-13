@@ -17,34 +17,49 @@ layout: spe
         <img src="{{lImg}}Schnurz_piep_egal_19_fb-02.jpg">
     </div>
 
-    <div class="content">
-        <p>{{text.p_1}}</p>
+</section>
+
+<section id="two" class="wrapper style2">
+        <header>
+            <h2>{{text.gallery_19_h1}}</h2>
+            <p>{{text.gallery_19_p}}</p>
+        </header>
+        <div class="content">
+            <div class="gallery">
+                {% include gallery_gen.html path="assets/img/spe19" %}
+            </div>
+        </div>
+</section>
+
+<section id="three" class="wrapper style1">
+
+        <div class="content">
+                <p>{{text.p_1}}</p>
+                
+                <p>{{text.p_2}}</p>
+                
+                <p>{{text.descript_text_3}}</p>
         
-        <p>{{text.p_2}}</p>
+                <h1>Lineup:</h1>
+                <a target="_blank" href="https://www.facebook.com/medea.hinteregger.3">11:30 - 13:00 | Medea Hinteregger</a><br>
+                <a target="_blank" href="https://www.facebook.com/aimendaduo/">13:30 - 14:30 | Aïmenda</a><br>
+                <a target="_blank" href="https://www.facebook.com/musictamira/">15:00 - 16:30 | Tamira</a><br>
+                <a target="_blank" href="https://www.facebook.com/forlyr/">18:30 - 20:00 | Forgotten Lyrics</a><br>
+                <a target="_blank" href="https://www.facebook.com/ObviouslyMusic/">20:30 - 21:10 | Obviously</a><br>
+                <a target="_blank" href="https://www.facebook.com/TheUnfrientOfficial/">21:20 - 22:00 | The UNfrient</a><br>
+                <a target="_blank" href="https://www.facebook.com/beyondhillsband/">22:30 - 24:00 | Beyond Hills</a><br>
+                <br>
+                <p>{{text.price}}</p>
         
-        <p>{{text.descript_text_3}}</p>
-
-        <h1>Lineup:</h1>
-        <a target="_blank" href="https://www.facebook.com/medea.hinteregger.3">11:30 - 13:00 | Medea Hinteregger</a><br>
-        <a target="_blank" href="https://www.facebook.com/aimendaduo/">13:30 - 14:30 | Aïmenda</a><br>
-        <a target="_blank" href="https://www.facebook.com/musictamira/">15:00 - 16:30 | Tamira</a><br>
-        <a target="_blank" href="https://www.facebook.com/forlyr/">18:30 - 20:00 | Forgotten Lyrics</a><br>
-        <a target="_blank" href="https://www.facebook.com/ObviouslyMusic/">20:30 - 21:10 | Obviously</a><br>
-        <a target="_blank" href="https://www.facebook.com/TheUnfrientOfficial/">21:20 - 22:00 | The UNfrient</a><br>
-        <a target="_blank" href="https://www.facebook.com/beyondhillsband/">22:30 - 24:00 | Beyond Hills</a><br>
-        <br>
-        <p>{{text.price}}</p>
-
-        <p>{{text.wheater}}</p>
-
-        <p>{{text.arrival}}</p>
-
-        <iframe class="youtube_iframe"
-        src="https://www.youtube.com/embed/yNtPcnXHrFw">
-        </iframe>
-
-        <a target="_blank" href="https://www.facebook.com/events/216414182619583/">Facebook event</a><br>
-
-    </div>
-
+                <p>{{text.wheater}}</p>
+        
+                <p>{{text.arrival}}</p>
+        
+                <iframe class="youtube_iframe"
+                src="https://www.youtube.com/embed/yNtPcnXHrFw">
+                </iframe>
+        
+                <a target="_blank" href="https://www.facebook.com/events/216414182619583/">Facebook event</a><br>
+        
+        </div>
 </section>
