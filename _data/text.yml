@@ -6,7 +6,7 @@ de:
     h1news : News
     h1donate: Spenden
     h2donate: Mit 25 € im Monat kann der Platz für eine*n Jugendliche*n im Waisenhaus finanziert werden.
-    beforeProgressBar: "Wir haben bereits 55 % des benötigten Geldes zusammen."
+    beforeProgressBar: "Wir haben bereits 80 % des benötigten Geldes zusammen."
     bankDetails: "OEW-ORG. FUER EINE SOLIDARISCHE WELT<br>
                   EINE-WELT-GRUPPE STERZING<br>
                   IT 31 F 08182 59110 0003000 429 19"
@@ -66,7 +66,7 @@ it:
     h1news : News
     h1donate: Donazioni
     h2donate: Il posto per un adolescente costa 25 € al mese.
-    beforeProgressBar: "Abbiamo giá 55 % del importo finale."
+    beforeProgressBar: "Abbiamo giá 80 % del importo finale."
     bankDetails: "OEW-ORG. FUER EINE SOLIDARISCHE WELT<br>
                   EINE-WELT-GRUPPE STERZING<br>
                   IT 31 F 08182 59110 0003000 429 19"
@@ -127,7 +127,7 @@ en:
     h1news : News
     h1donate: Donations
     h2donate: By donating 25 € per month you can pay for the costs of one adolescent person living in the orphanage.
-    beforeProgressBar: "We have already collected 55% of the money needed."
+    beforeProgressBar: "We have already collected 80% of the money needed."
     bankDetails: "OEW-ORG. FUER EINE SOLIDARISCHE WELT<br>
                   EINE-WELT-GRUPPE STERZING<br>
                   IT 31 F 08182 59110 0003000 429 19"
