@@ -1,6 +1,9 @@
 from os import listdir
 from os.path import isfile, isdir, join
+from  urllib.parse import quote
+from datetime import datetime
 import sys
+import random
 
 def recursive_file_lister(root_path, actual_path, all_files):
 
@@ -14,7 +17,7 @@ def recursive_file_lister(root_path, actual_path, all_files):
         relative_path_of_file = (join(actual_path, i))
 
         if isfile(full_path_of_file):
-            aws_path_for_file = "/"+relative_path_of_file.replace(" ", "\ ")
+            aws_path_for_file = quote("/"+relative_path_of_file)
             all_files.append(aws_path_for_file)
         elif isdir(full_path_of_file):
             recursive_file_lister(root_path, relative_path_of_file, all_files)
@@ -45,7 +48,7 @@ else:
     all_files = []
     recursive_file_lister(sys.argv[1], "", all_files)
 
-    create_json_for_invalidation(all_files, "auto_deploy_script")
+    create_json_for_invalidation(all_files, "auto_deploy_script_"+str(datetime.now().strftime("%I_%M%p_%B_%d_%Y_"))+str(random.randint(1, 999999999999)))
 
 
 
