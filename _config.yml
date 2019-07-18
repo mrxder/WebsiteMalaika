@@ -9,4 +9,13 @@ defaults:
     values:
       layout: "default"
 
-exclude: [vendor]
+exclude:
+  - vendor
+  - script
+  - README.md
+  - deploy_prev.sh
+  - deploy_public.sh
+  - invbatch.json
+  - create_invalidation_json.py
+  - Gemfile
+  - Gemfile.lock
