@@ -10,7 +10,7 @@ de:
     bankDetails: "OEW-ORG. FUER EINE SOLIDARISCHE WELT<br>
                   EINE-WELT-GRUPPE STERZING<br>
                   IT 31 F 08182 59110 0003000 429 19"
-    taxInfo: "Deine Spende kann von der Steuer abgesetzt werden."
+    taxInfo: "Deine Spende kann zu 35% von der Steuer abgesetzt werden."
 
 
     altGroupPic: Mitglieder Malaika
@@ -70,7 +70,7 @@ it:
     bankDetails: "OEW-ORG. FUER EINE SOLIDARISCHE WELT<br>
                   EINE-WELT-GRUPPE STERZING<br>
                   IT 31 F 08182 59110 0003000 429 19"
-    taxInfo: "La tua donazione e detraibile dell'imposta."
+    taxInfo: "La tua donazione è detraibile del 35% dell'imposta."
 
 
     altGroupPic: Membri Malaika
@@ -131,7 +131,7 @@ en:
     bankDetails: "OEW-ORG. FUER EINE SOLIDARISCHE WELT<br>
                   EINE-WELT-GRUPPE STERZING<br>
                   IT 31 F 08182 59110 0003000 429 19"
-    taxInfo: "Your donation is deductible from taxes."
+    taxInfo: "Your donation is deductible from taxes by 35%."
 
 
     altGroupPic: Members of Malaika
