@@ -34,6 +34,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Build and deploy
         run: |
+          bundle install
           bundle exec jekyll build
           aws s3 sync _site s3://www.malaika.cc --exclude prev --exclude SPE
           python3 create_invalidation_json.py _site > invbatch.json
