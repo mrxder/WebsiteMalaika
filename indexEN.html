@@ -3,50 +3,65 @@ title: Mailaika Sterzing
 pid: home
 lang: en
 ---
+
 {% include glob.html %}
 
+<!-- Text -->
+<section id="one" class="wrapper style1">
+  <header class="special">
+    <h2>{{text.h1}}</h2>
+    <p>{{text.h2}}</p>
+  </header>
+  <div class="content">
+    <p>{{text.malaikaDesc}}</p>
+  </div>
+</section>
 
+<!-- Text -->
+<section id="one" class="wrapper style1">
+  <div class="image fit flush">
+    <img
+      src="{{lImg}}Collage_Gruppenbild_malaika_kl.jpg"
+      alt="{{altGroupPic}}"
+    />
+  </div>
+</section>
 
-        <!-- Text -->
-        <section id="one" class="wrapper style1">
+<!-- Text temp news-->
+<section id="one" class="wrapper style1">
+  <header class="special">
+    <h2>{{text.h1news}}</h2>
+  </header>
+  <div class="content">
+    <hr />
 
-            <header class="special">
-                <h2>{{text.h1}}</h2>
-                <p>{{text.h2}}</p>
-            </header>
-            <div class="content">
-                <p>{{text.malaikaDesc}}</p>
-            </div>
-        </section>
-        
-        
-        <!-- Text -->
-        <section id="one" class="wrapper style1">
+    <li class="news">
+      <h2>Covid-19</h2>
+      <p>
+        Currently the Oasis of Endless Hope Centre is closed due to Covid-19
+        regulations. The young people are accommodated with relatives or friends
+        and will continue to be accompanied by our project partner. The
+        construction work on the building can be completed during this time.
+      </p>
+    </li>
 
-            <div class="image fit flush">
-                <img src="{{lImg}}Collage_Gruppenbild_malaika_kl.jpg" alt="{{altGroupPic}}" />
-            </div>
-            
-        </section>
+    <hr />
+  </div>
+</section>
+<!-- Text -->
+<section id="one" class="wrapper style1">
+  <header>
+    <h2>{{text.h1donate}}</h2>
+    <p>{{text.h2donate}}</p>
+  </header>
+  <div class="content">
+    <p>{{text.beforeProgressBar}}</p>
+    <div class="progress-wrap progress" data-progress-percent="80">
+      <div class="progress-bar progress"></div>
+    </div>
 
-        <!-- Text -->
-        <section id="one" class="wrapper style1">
-
-                <header>
-                    <h2>{{text.h1donate}}</h2>
-                    <p>{{text.h2donate}}</p>
-                </header>
-                <div class="content">
-
-                    <p>{{text.beforeProgressBar}}</p>
-                    <div class="progress-wrap progress" data-progress-percent="80">
-                        <div class="progress-bar progress"></div>
-                    </div>
-
-                    <p>{{text.donationMain}}</p>
-                    <p>{{text.bankDetails}}</p>
-                    <p><i>{{text.taxInfo}}</i></p>
-    
-                </div>
-                
-            </section>
+    <p>{{text.donationMain}}</p>
+    <p>{{text.bankDetails}}</p>
+    <p><i>{{text.taxInfo}}</i></p>
+  </div>
+</section>
