@@ -1,9 +1,10 @@
 from os import listdir
 from os.path import isfile, isdir, join
-from  urllib.parse import quote
+from urllib.parse import quote
 from datetime import datetime
 import sys
 import random
+
 
 def recursive_file_lister(root_path, actual_path, all_files):
 
@@ -22,6 +23,7 @@ def recursive_file_lister(root_path, actual_path, all_files):
         elif isdir(full_path_of_file):
             recursive_file_lister(root_path, relative_path_of_file, all_files)
 
+
 def create_json_for_invalidation(all_files, refernece):
 
     print("{")
@@ -38,20 +40,14 @@ def create_json_for_invalidation(all_files, refernece):
     print("   },")
     print("  \"CallerReference\": \""+refernece+"\"")
     print("}")
-    
 
 
 if len(sys.argv) != 2:
     print("Usage")
     print("create_invalidation_json.py dir")
 else:
-    all_files = []
+    all_files = ["/"]
     recursive_file_lister(sys.argv[1], "", all_files)
 
-    create_json_for_invalidation(all_files, "auto_deploy_script_"+str(datetime.now().strftime("%I_%M%p_%B_%d_%Y_"))+str(random.randint(1, 999999999999)))
-
-
-
-
-
-
+    create_json_for_invalidation(all_files, "auto_deploy_script_"+str(
+        datetime.now().strftime("%I_%M%p_%B_%d_%Y_"))+str(random.randint(1, 999999999999)))
