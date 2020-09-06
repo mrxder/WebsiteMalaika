@@ -50,16 +50,27 @@ lang: de
     <h2>{{text.h1donate}}</h2>
     <p>{{text.h2donate}}</p>
   </header>
-  <div class="content">
+  <div class="content clearfix">
     <!--
                     <p>{{text.beforeProgressBar}}</p>
                     <div class="progress-wrap progress" data-progress-percent="80">
                         <div class="progress-bar progress"></div>
                     </div>
                     -->
+    <div id="actualPaten">
+      <p>Aktuell haben</p>
+      <h1>5 von 10</h1>
+      <p>Kindern einen Paten</p>
+      <h1>Werden Sie jetzt Pate:</h1>
+    </div>
 
-    <p>{{text.donationMain}}</p>
-    <p>{{text.bankDetails}}</p>
-    <p><i>{{text.taxInfo}}</i></p>
+    <div class="float-l">
+      <p>{{text.donationMain}}</p>
+      <p>{{text.bankDetails}}</p>
+      <p><i>{{text.taxInfo}}</i></p>
+    </div>
+    <div id="donationbox-img" class="float-r">
+      <img src="{{lImg}}donationbox.svg" />
+    </div>
   </div>
 </section>
