@@ -3176,6 +3176,11 @@ body:after {
 }
 
 #actualPaten h1 {
+  font-size: 3em;
+  margin-bottom: 0;
+}
+
+#actualPaten h2 {
   font-size: 2em;
   margin-bottom: 0;
 }
