@@ -132,7 +132,11 @@ en:
     h1news : News
     h1donate: Donations
     h2donate: By donating 25 € per month you can pay for the costs of one adolescent person living in the orphanage.
-    beforeProgressBar: "We have already collected 80% of the money needed."
+    actualPaten_p1: Currently,
+    actualPaten_h1: 11/40
+    actualPaten_p2: patrons support the project.
+    actualPaten_h2: Take over a sponsorship
+    actualPaten_p3: and help to ensure that the young people can be guided professionally!
     bankDetails: "OEW-ORG. FUER EINE SOLIDARISCHE WELT<br>
                   EINE-WELT-GRUPPE STERZING<br>
                   IT 31 F 08182 59110 0003000 429 19"
