@@ -11,7 +11,6 @@ de:
     actualPaten_p2: Pat*innen das Projekt
     actualPaten_h2: Übernimm auch Du eine Patenschaft
     actualPaten_p3: und trage so dazu bei, dass die Jugendlichen professionell begleiten werden können!
-    beforeProgressBar: "Wir haben bereits 80 % des benötigten Geldes zusammen."
     bankDetails: "OEW-ORG. FUER EINE SOLIDARISCHE WELT<br>
                   EINE-WELT-GRUPPE STERZING<br>
                   IT 31 F 08182 59110 0003000 429 19"
@@ -71,7 +70,11 @@ it:
     h1news : News
     h1donate: Donazioni
     h2donate: Il posto per un adolescente costa 25 € al mese.
-    beforeProgressBar: "Abbiamo giá 80 % del importo finale."
+    actualPaten_p1: Attualmente,
+    actualPaten_h1: 11/40
+    actualPaten_p2: persone sostengono il progetto.
+    actualPaten_h2: Prendete in mano una sponsorizzazione
+    actualPaten_p3: e aiutateci a far sì che i giovani possano essere accompagnati professionalmente!
     bankDetails: "OEW-ORG. FUER EINE SOLIDARISCHE WELT<br>
                   EINE-WELT-GRUPPE STERZING<br>
                   IT 31 F 08182 59110 0003000 429 19"

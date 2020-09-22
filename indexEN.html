@@ -54,7 +54,7 @@ lang: en
     <h2>{{text.h1donate}}</h2>
     <p>{{text.h2donate}}</p>
   </header>
-  <div class="content">
+  <div class="content clearfix">
     <!-- <p>{{text.beforeProgressBar}}</p>
     <div class="progress-wrap progress" data-progress-percent="80">
       <div class="progress-bar progress"></div>
@@ -67,8 +67,14 @@ lang: en
       <h2>{{text.actualPaten_h2}}</h2>
       <p>{{text.actualPaten_p3}}</p>
     </div>
-    <p>{{text.donationMain}}</p>
-    <p>{{text.bankDetails}}</p>
-    <p><i>{{text.taxInfo}}</i></p>
+
+    <div class="float-l">
+      <p>{{text.donationMain}}</p>
+      <p>{{text.bankDetails}}</p>
+      <p><i>{{text.taxInfo}}</i></p>
+    </div>
+    <div id="donationbox-img" class="float-r">
+      <img src="{{lImg}}donationbox.svg" />
+    </div>
   </div>
 </section>
