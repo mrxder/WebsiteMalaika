@@ -56,14 +56,27 @@ lang: it
     <h2>{{text.h1donate}}</h2>
     <p>{{text.h2donate}}</p>
   </header>
-  <div class="content">
+  <div class="content clearfix">
     <!-- <p>{{text.beforeProgressBar}}</p>
     <div class="progress-wrap progress" data-progress-percent="80">
       <div class="progress-bar progress"></div>
     </div> -->
 
-    <p>{{text.donationMain}}</p>
-    <p>{{text.bankDetails}}</p>
-    <p><i>{{text.taxInfo}}</i></p>
+    <div id="actualPaten">
+      <p>{{text.actualPaten_p1}}</p>
+      <h1>{{text.actualPaten_h1}}</h1>
+      <p>{{text.actualPaten_p2}}</p>
+      <h2>{{text.actualPaten_h2}}</h2>
+      <p>{{text.actualPaten_p3}}</p>
+    </div>
+
+    <div class="float-l">
+      <p>{{text.donationMain}}</p>
+      <p>{{text.bankDetails}}</p>
+      <p><i>{{text.taxInfo}}</i></p>
+    </div>
+    <div id="donationbox-img" class="float-r">
+      <img src="{{lImg}}donationbox.svg" />
+    </div>
   </div>
 </section>
