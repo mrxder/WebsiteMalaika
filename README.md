@@ -16,6 +16,8 @@ to collect donations in order to help orphan children.
 Everyone is welcome to contribute.
 You can create a merge request or just write us.
 
+Checkout our [**Contributing Guide**](CONTRIBUTING.md) to learn how you can start contributing to the project.
+
 ### Text
 
 All the text of the homepage is stored under \_data/text.yml
