@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/mrxder/WebsiteMalaika/master/assets/img/MALAIKA_LOGO_maskottchen_web.png" alt="Malaika logo" width="200" />
-
 # Webpage for Malaika
 
 [![Build Status](https://travis-ci.com/mrxder/WebsiteMalaika.svg?branch=master)](https://travis-ci.com/mrxder/WebsiteMalaika)
