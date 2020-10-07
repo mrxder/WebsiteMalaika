@@ -24,7 +24,7 @@ def recursive_file_lister(root_path, actual_path, all_files):
             recursive_file_lister(root_path, relative_path_of_file, all_files)
 
 
-def create_json_for_invalidation(all_files, refernece):
+def create_json_for_invalidation(all_files, path_prefix, refernece):
 
     print("{")
     print(" \"Paths\": {")
@@ -33,21 +33,25 @@ def create_json_for_invalidation(all_files, refernece):
 
     for i in range(len(all_files)):
         if(i < (len(all_files)-1)):
-            print("         \""+all_files[i]+"\",")
+            print("         \""+path_prefix+all_files[i]+"\",")
         else:
-            print("         \""+all_files[i]+"\"")
+            print("         \""+path_prefix+all_files[i]+"\"")
     print("     ]")
     print("   },")
     print("  \"CallerReference\": \""+refernece+"\"")
     print("}")
 
 
-if len(sys.argv) != 2:
+if len(sys.argv) < 2:
     print("Usage")
-    print("create_invalidation_json.py dir")
+    print("create_invalidation_json.py dir path_prefix")
 else:
     all_files = ["/"]
     recursive_file_lister(sys.argv[1], "", all_files)
 
-    create_json_for_invalidation(all_files, "auto_deploy_script_"+str(
+    path_prefix = ""
+    if len(sys.argv) >= 3:
+        path_prefix = sys.argv[2]
+
+    create_json_for_invalidation(all_files, path_prefix, "auto_deploy_script_"+str(
         datetime.now().strftime("%I_%M%p_%B_%d_%Y_"))+str(random.randint(1, 999999999999)))
