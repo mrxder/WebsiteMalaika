@@ -37,7 +37,8 @@ jobs:
           bundle install
           bundle exec jekyll build
           aws s3 sync _site s3://www.malaika.cc/prev
-          aws cloudfront create-invalidation --distribution-id E2FUHQH2ML2REJ --paths /prev
+          python3 create_invalidation_json.py _site > invbatch.json /prev
+          aws cloudfront create-invalidation --distribution-id E2FUHQH2ML2REJ --invalidation-batch file://invbatch.json
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
