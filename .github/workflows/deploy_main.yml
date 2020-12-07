@@ -20,6 +20,8 @@ jobs:
           python-version: "3.x"
 
       - uses: chrislennon/action-aws-cli@v1.1
+        env:
+          ACTIONS_ALLOW_UNSECURE_COMMANDS: true
 
       - name: Build and deploy
         run: |
