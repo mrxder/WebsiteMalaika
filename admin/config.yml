@@ -10,7 +10,7 @@ media_folder: "assets/img"
 collections:
   - name: "text" # Used in routes, e.g., /admin/collections/blog
     label: "Text" # Used in the UI
-    folder: "_data/blog" # The path to the folder where the documents are stored
+    folder: "_data" # The path to the folder where the documents are stored
     create: false # Allow users to create new documents in this collection
     slug: "" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
