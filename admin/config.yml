@@ -1,0 +1,17 @@
+backend:
+  name: github
+  repo: mrxder/WebsiteMalaika
+  branch: master # Branch to update (optional; defaults to master)
+  #api_root: https://api.github.com
+  #auth_endpoint: https://elated-hawking-48f2fe.netlify.app/.netlify/identity
+
+media_folder: "assets/img"
+
+collections:
+  - name: "text" # Used in routes, e.g., /admin/collections/blog
+    label: "Text" # Used in the UI
+    folder: "_data/blog" # The path to the folder where the documents are stored
+    create: false # Allow users to create new documents in this collection
+    slug: "" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Body", name: "body", widget: "code"}
