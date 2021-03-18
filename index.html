@@ -19,12 +19,10 @@ lang: de
 
 <!-- Text -->
 <section id="one" class="wrapper style1">
-  <div class="image fit flush">
-    <img
-      src="{{lImg}}Collage_Gruppenbild_malaika_kl.jpg"
-      alt="{{altGroupPic}}"
-    />
+  <div id="portraidContainer" class="image fit flush">
+    {% include portraid_gen.html path="assets/img/portraidGallery" %}
   </div>
+  
   <header class="special">
     <h2>{{text.h1news}}</h2>
   </header>
