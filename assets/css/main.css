@@ -3316,6 +3316,26 @@ body:after {
   }
 }
 
+/* Portraid */
+#portraidContainer {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+}
+
+.portraidItem {
+  margin: 2px;
+  justify-self: center;
+}
+
+.portraidItem p {
+  position: absolute;
+  margin-top: -30px;
+  margin-left: 20px;
+  text-shadow: 0px 0px 2px #fff;
+
+}
+
+
 /* Footer */
 
 #footer {
