@@ -18,20 +18,11 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
-      # Runs a single command using the runners shell
-      - uses: actions/setup-ruby@v1
+      - uses: ruby/setup-ruby@v1
         with:
           ruby-version: "2.6"
-
-      - uses: actions/setup-python@v2
-        with:
-          python-version: "3.x"
-
-      - uses: chrislennon/action-aws-cli@v1.1
-        env:
-          ACTIONS_ALLOW_UNSECURE_COMMANDS: true
 
       # Runs a set of commands using the runners shell
       - name: Build and deploy
