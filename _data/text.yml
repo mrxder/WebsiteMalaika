@@ -14,7 +14,8 @@ de:
     bankDetails: "OEW Organisation für Eine solidarische Welt<br>
                   Raiffeisenkasse Eisacktal/Brixen<br>
                   IT 68 S 08307 58221 000300004707<br>
-                  Vintlerweg 34, 39042 Brixen"
+                  Vintlerweg 34, 39042 Brixen<br>
+                  Überweisungsgrund: EWG Sterzing Malaika Kenia"
     taxInfo: "Deine Spende kann zu 35% von der Steuer abgesetzt werden."
 
 
@@ -79,7 +80,8 @@ it:
     bankDetails: "OEW Organisation für Eine solidarische Welt<br>
                   Raiffeisenkasse Eisacktal/Brixen<br>
                   IT 68 S 08307 58221 000300004707<br>
-                  Vintlerweg 34, 39042 Brixen"
+                  Vintlerweg 34, 39042 Brixen <br>
+                  Motivo del trasferimento: EWG Vipiteno Malaika Kenia"
     taxInfo: "La tua donazione è detraibile del 35% dell'imposta."
 
 
@@ -104,8 +106,7 @@ it:
                         <li>Integrazione nel mondo del lavoro</li>
                     </ul>"
     target_h1: Il target
-    target_text: "Il target del progetto sono giovani che vivono per le strade di Nairobi.
-In Kenia, i ragazzi che vivono in strada da tanto tempo, fanno particolarmente fatica a reintegrarsi  nella società. Tanti progetti offrono posti solo per bambini fino ai 9 anni e non accolgono ragazzi più grandi. Perciò questo progetto ospiterà ragazzi dai 9 anni in sù."
+    target_text: "Il target del progetto sono giovani che vivono per le strade di Nairobi. In Kenia, i ragazzi che vivono in strada da tanto tempo, fanno particolarmente fatica a reintegrarsi  nella società. Tanti progetti offrono posti solo per bambini fino ai 9 anni e non accolgono ragazzi più grandi. Perciò questo progetto ospiterà ragazzi dai 9 anni in sù."
     duncan_h1: Duncan Kimani
     duncan_p: "Duncan è nato il 06.11.1980 in Kenia. Dopo la laurea triennale in “Leadership” presso la St. Paul’s University Kenya, ha fatto una laurea magistrale in “Leadership and Sustainability” presso la Liberty University negli Stati Uniti. Per quattro anni lavorava nell’ambito del teambuilding presso la ditta „Bluesky adventures Kenya“. Nel 2007 ha fondato l’organizzazione “Care for AIDS”, di cui è il direttore."
     patrick_h1: Patrick Mwangi
@@ -145,7 +146,8 @@ en:
     bankDetails: "OEW Organisation für Eine solidarische Welt<br>
                   Raiffeisenkasse Eisacktal/Brixen<br>
                   IT 68 S 08307 58221 000300004707<br>
-                  Vintlerweg 34, 39042 Brixen"
+                  Vintlerweg 34, 39042 Brixen<br>
+                  Transfer reason: EWG Sterzing Malaika Kenia"
     taxInfo: "Your donation is deductible from taxes by 35%."
 
 
